@@ -1,5 +1,4 @@
-# Project Title
-CONTACT^2 : Augmented Acoustics
+# CONTACT^2 : Augmented Acoustics
 
 ## Authors
 - Felix Faire

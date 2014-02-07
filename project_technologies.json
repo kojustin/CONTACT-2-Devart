@@ -4,7 +4,9 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            Windows
+            Osx
+            Android
         ],
         "toolkits": [
             "insert toolkits"

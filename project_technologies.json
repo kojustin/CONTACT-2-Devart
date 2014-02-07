@@ -4,15 +4,21 @@
             "insert apis"
         ],
         "platforms": [
-            Windows
-            Osx
-            Android
+            "Windows"
+            "OSX"
+            "Android"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Processing"
+            "Max/Msp"
+            "Opengl"
+            "Toxiclibs"
         ]
     },
     "themes": [
-        "insert themes"
+        "Sound"
+        "interaction"
+        "Audio Visualisation"
+        "Music"
     ]
 }

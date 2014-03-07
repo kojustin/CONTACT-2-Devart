@@ -1,6 +1,6 @@
 First Experimental installation is now complete, here are some images
 
-The laptops connected over OSC needed a local wifi connection. The Royal academy public wifi brought up some problems so i had to use my NEXUS 5 as a tethering device to connect all the computers together.
+The laptops connected over OSC needed a local wifi connection. The Royal academy public wifi brought up some problems and i was using both OSX and Windows computers which refused to connect via ad-hoc networks. In the end i had to use my NEXUS 5 as a tethering device to connect all the computers together.
 
 The signals were sent from the audio laptop to the ANDROID phone and then forwarded to the projection laptops.
 

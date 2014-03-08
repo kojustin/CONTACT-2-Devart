@@ -10,6 +10,7 @@
         ],
         "toolkits": [
             "Processing"
+            "Cinder"
             "Max/Msp"
             "Opengl"
             "Toxiclibs"
@@ -20,5 +21,6 @@
         "interaction"
         "Audio Visualisation"
         "Music"
+        "Neural Networks"
     ]
 }

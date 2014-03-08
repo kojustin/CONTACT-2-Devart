@@ -4,23 +4,23 @@
             "insert apis"
         ],
         "platforms": [
-            "Windows"
-            "OSX"
+            "Windows",
+            "OSX",
             "Android"
         ],
         "toolkits": [
-            "Processing"
-            "Cinder"
-            "Max/Msp"
-            "Opengl"
+            "Processing",
+            "Cinder",
+            "Max/Msp",
+            "Opengl",
             "Toxiclibs"
         ]
     },
     "themes": [
-        "Sound"
-        "interaction"
-        "Audio Visualisation"
-        "Music"
+        "Sound",
+        "interaction",
+        "Audio Visualisation",
+        "Music",
         "Neural Networks"
     ]
 }

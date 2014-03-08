@@ -13,7 +13,9 @@ Contact V1 is a tangible audio interface to manipulate and visualize sounds gene
 
 The next stage for CONTACT is to move from 1Dimensional sound location to 2 and perhaps 3 dimensions. Spatially and acoustically mapping objects of different shapes sizes and materials will produce different sounds and possibilities for interaction.
 
-I hope to incorporate the release of an android application alongside the tangible project to allow other forms of touch/sound/visual interaction and perhaps the inclusion of wireless osc control of the main interface.
+The installation in the barbican center could turn any section of the building into an audiovisual haptic resonating chamber, In which the occupants behaviour and interaction curate their audible and visible environments. The audio and visual foundations are set but can be developed greatly over the coming months and could expand into a complete synaesthetic environment. 
+
+I hope to incorporate the release of an android application alongside the tangible project to allow other forms of touch/sound/visual interaction and perhaps the inclusion of wireless osc control of the main interface to augment the scale of the interaction and extend peoples area of influence beyond the scope of their bodies.
 
 ## CONTACT Prototype
 

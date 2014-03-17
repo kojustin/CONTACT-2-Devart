@@ -25,6 +25,11 @@ The installation will turn the barbican
 
 [CONTACT: Processing Source Code](https://github.com/felixfaire/CONTACT "CONTACT: Processing Source Code")
 
+## CONTACT Building Scale Prototype
+
+[CONTACT: Augmented Acoustics](https://vimeo.com/88436279 "CONTACT: Resonate")  
+
+
 ## Example Code
 ```
 void drawChains() {
@@ -41,7 +46,6 @@ void drawChains() {
 }
 ```
 ## Links to External Libraries
-These links will be updated continually
 
 [LeapMotionP5](http://www.onformative.com/blog/leap-motion-library-for-processing/ "LeapMotionP5")  
 [OSCP5](http://www.sojamo.de/libraries/oscP5/ "OSCP5")  

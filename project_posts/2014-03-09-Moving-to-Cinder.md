@@ -4,7 +4,7 @@ I may still use Processing for the visualisations as it is quicker to prototype 
 
 The main Body of the Cinder work is being developed alongside the DevArt competition and can be found here
 
-[Multi Channel Analysis](https://github.com/felixfaire/MultiChannelAudioAnalysis "Cinder: MultiChannel Audio Analysis with Neural Networks")  
+[Multi Channel Analysis with Neural Networks in Cinder](https://github.com/felixfaire/MultiChannelAudioAnalysis "Cinder: MultiChannel Audio Analysis with Neural Networks")  
 
 
 

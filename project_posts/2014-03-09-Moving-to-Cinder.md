@@ -8,5 +8,36 @@ The main Body of the Cinder work is being developed alongside the DevArt competi
 
 
 
+## Example Cinder Code
+```
+void AudioAnalysisOSCApp::update()
+{
+   mPcmBuffer = mInput.getPcmBuffer();
+  if ( ! mPcmBuffer ) {
+	  return;
+	}
+    
+    // updates the number of buffer samples to use in wave.update()
+    uint32_t bufferSamples = mPcmBuffer->getSampleCount();
+    
+    // if the program is live, update the contents of the waves
+    if (live){
+        for (int i = 0; i < channels; i++){
+            
+            waves[i].update(mInput, bufferSamples);
+            
+            // pauses for visual checks if any of the waves have gone over the threshold
+            if (waves[i].peaked){
+                live = false;
+            }
+            
+        }
+        
+    }
+    
+}
+```
+
+
 
 

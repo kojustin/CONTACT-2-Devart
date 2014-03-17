@@ -4,20 +4,21 @@
 - Felix Faire
 - https://github.com/felixfaire
 - www.felixfaire.com
+- @felixfaire
+
 
 ## Description
 
 Contact^2 is a development of an ongoing project around music visualisation and haptic interaction.
 
-Contact V1 is a tangible audio interface to manipulate and visualize sounds generated from interaction with a simple wooden surface.Any physical contact with the table generates acoustic vibrations which are manipulated and visualized LIVE as they occur using several communicating pieces of software.
+Contact V1 is a tangible audio interface to manipulate and visualize sounds generated from interaction with a simple wooden surface. Any physical contact with the table generates acoustic vibrations which are manipulated and visualized LIVE as they occur using several communicating pieces of software.
 
 The next stage for CONTACT is to move from 1Dimensional sound location to 2 and perhaps 3 dimensions. Spatially and acoustically mapping objects of different shapes sizes and materials will produce different sounds and possibilities for interaction.
 
-The installation in the barbican center could turn any section of the building into an audiovisual haptic resonating chamber, In which the occupants behaviour and interaction curate their audible and visible environments. The audio and visual foundations are set but can be developed greatly over the coming months and could expand into a complete synaesthetic environment. 
+The installation in the barbican center could turn any section of the building into an audiovisual haptic resonating chamber, In which the occupants behaviour and percussive interaction curate their audible and visible environments. The audio and visual foundations are set but can be developed greatly over the coming months and could expand into a complete synaesthetic environment. 
 
 I hope to incorporate the release of an android application alongside the tangible project to allow other forms of touch/sound/visual interaction and perhaps the inclusion of wireless osc control of the main interface to augment the scale of the interaction and extend peoples area of influence beyond the scope of their bodies. This could be the ability to change the pitch or nature of the sounds/visualisations over the wireless protocol. There could also be a Nexus 10 (or similar) tablet embedded in the installation for a more discrete control of the experience and keep people coming back for more.
 
-The installation will turn the barbican 
 
 ## CONTACT Prototype
 
@@ -30,21 +31,6 @@ The installation will turn the barbican
 [CONTACT: Augmented Acoustics](https://vimeo.com/88436279 "CONTACT: Resonate")  
 
 
-## Example Code
-```
-void drawChains() {
-  for (int i = 0; i < 5; i++) {
-    chains.get(i).display();
-  }
-
-  if (displaced) tK += 8/rev;
-  for (int j = 0; j < 5; j++) {
-    for (int i = 0; i < chains.get(1).springs.size(); i ++) {
-      chains.get(j).springs.get(i).setStrength(constrain(tK*(j+1)/5, 0, 2));
-    }
-  }
-}
-```
 ## Links to External Libraries
 
 [LeapMotionP5](http://www.onformative.com/blog/leap-motion-library-for-processing/ "LeapMotionP5")  

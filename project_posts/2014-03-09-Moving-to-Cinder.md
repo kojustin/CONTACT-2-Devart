@@ -2,6 +2,10 @@ Moving to 4 channel 2D sonar location has needed some lower level audio analysis
 
 I may still use Processing for the visualisations as it is quicker to prototype ideas in Java, the Cinder app and the processing app could talk to eachother via osc again but i am very keen to develop lower level opengl skills in Cinder.
 
+The main Body of the Cinder work is being developed alongside the DevArt competition and can be found here
+
+[Multi Channel Analysis](https://github.com/felixfaire/MultiChannelAudioAnalysis "Cinder: MultiChannel Audio Analysis with Neural Networks")  
+
 
 
 

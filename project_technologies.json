@@ -11,6 +11,7 @@
         "toolkits": [
             "Processing",
             "Cinder",
+            "C++",
             "Max/Msp",
             "Opengl",
             "Toxiclibs"

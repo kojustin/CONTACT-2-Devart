@@ -42,8 +42,8 @@ I hope to incorporate the release of an android application alongside the tangib
 
 ## Images & Videos
 
-![Example Image](project_images/contact-1.jpg?raw=true "Contact-1")
 ![Example Image](project_images/contact-2.jpg?raw=true "Contact-2")
+![Example Image](project_images/contact-1.jpg?raw=true "Contact-1")
 ![Example Image](project_images/contact-3.jpg?raw=true "Contact-3")
 ![Example Image](project_images/contact-4.jpg?raw=true "Contact-4")
 

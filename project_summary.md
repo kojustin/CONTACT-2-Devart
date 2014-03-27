@@ -17,7 +17,7 @@ The next stage for CONTACT is to move from 1Dimensional sound location to 2 and 
 
 The installation in the barbican center could turn any section of the building into an audiovisual haptic resonating chamber, In which the occupants behaviour and percussive interaction curate their audible and visible environments. The audio and visual foundations are set but can be developed greatly over the coming months and could expand into a complete synaesthetic environment. 
 
-I hope to incorporate the release of an android application alongside the tangible project to allow other forms of touch/sound/visual interaction and perhaps the inclusion of wireless osc control of the main interface to augment the scale of the interaction and extend peoples area of influence beyond the scope of their bodies. This could be the ability to change the pitch or nature of the sounds/visualisations over the wireless protocol. There could also be a Nexus 10 (or similar) tablet embedded in the installation for a more discrete control of the experience and keep people coming back for more.
+I hope to incorporate the release of an android application alongside the tangible project to allow other forms of touch/sound/visual interaction and perhaps the inclusion of wireless osc control of the main interface to augment the scale of the interaction and extend peoples area of influence beyond the scope of their bodies. This could be the ability to change the pitch or nature of the sounds/visualisations over the OSC wireless protocol. There could also be a Nexus 10 (or similar) tablet embedded in the installation for a more discrete control of the experience and keep people coming back for more.
 
 
 ## CONTACT Prototype
